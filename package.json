@@ -1,0 +1,23 @@
+{
+  "name": "akif-in-paketi",
+  "version": "1.0.0",
+  "description": "akifin paketi idir....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "akif": "echo 'Akifin satranç elosu? \n 2515'"
+  },
+  "keywords": [
+    "paket",
+    "akif"
+  ],
+  "author": "Akif",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akiftsc/git-test.git"
+  }
+}
